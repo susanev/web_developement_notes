@@ -10,6 +10,6 @@
 * header and footer tags can represent the header and footer of any/all sections; they do not create new sections in the outline
 * non-HTML5 browsers will display them as inline by default so use below css
   `section, article, aside, footer, header, nav, hgroup {  
-display:block;  
-}`
+   display:block;  
+   }`
 * [MDN: Using HTML sections and outlines](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines)
