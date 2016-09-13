@@ -22,3 +22,7 @@
 * ID selectors have a value of 100, class selectors a value of 10 and HTML selectors a value of 1
 * [Specifitcity Calculator](https://specificity.keegan.st/)
 * Source: [HTML Dog: Specificity](http://www.htmldog.com/guides/css/intermediate/specificity/)
+
+## Pseudo-elements
+* use two colons
+* common ones include: ::selection, ::after, ::before, ::first-letter
